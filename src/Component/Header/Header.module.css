@@ -1,0 +1,18 @@
+.header{
+    background-color: var(--primary);
+    height: 100vh;
+}
+.header-img{
+    width: 300px;
+    padding: 50px 0;
+    margin: auto;
+
+}
+.header img{
+    width: 100%;
+    margin-top: 100px;
+}
+.header-contant{
+    color: #fff;
+    text-align: center;
+}
